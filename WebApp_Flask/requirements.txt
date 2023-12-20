@@ -1,0 +1,9 @@
+Flask==3.0.0
+Flask-Bootstrap5
+bootstrap-flask
+flask_wtf
+flask_ckeditor
+werkzeug~=3.0.0
+wtforms~=3.1.1
+flask_sqlalchemy
+flask_login
